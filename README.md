@@ -1,2 +1,2 @@
 # teste-performance
-Teste de Performance da plataforma Youtube, realizado utilizando a ferramenta JMETER.
+Exercício do módulo Testes de Performance da EBAC, realizado utilizando a ferramenta JMETER.
